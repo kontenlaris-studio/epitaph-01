@@ -1,3 +1,16 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280" alt="epitaph-01 logo">
+
+**Famous last words: the funniest epitaph.**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FF7A00&color=0A1931)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&labelColor=FF7A00&color=0A1931)](LICENSE)
+[![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio?style=for-the-badge&labelColor=FF7A00&color=0A1931)](https://github.com/kontenlaris-studio)
+
+</div>
+
+---
 # epitaph-01
 
 [![make.fun](https://make.fun/badge/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406.svg)](https://make.fun/bounty/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406)
